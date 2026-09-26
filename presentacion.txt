@@ -1,0 +1,6 @@
+Nombre: Yensy David del Rosario Tapia
+Curso: 6.º de Bachiller Técnico en Desarrollo y Adm. de Aplicaciones
+Asignatura: Desarrollo de Aplicaciones Informáticas
+
+Este archivo forma parte de la práctica de la asignación de Introducción a GitHub, 
+donde aprendí a crear un repositorio, editar un README y confirmar cambios mediante commits.
